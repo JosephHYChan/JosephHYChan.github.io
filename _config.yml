@@ -2,7 +2,7 @@
 gems:
   - jemoji
   - jekyll-paginate
-remote_theme:mediator
+remote_theme:JosephHYCHan/mediator
 # Site settings
 title: "Mediator"
 description: > # this means to ignore newlines until "email:"
